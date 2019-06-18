@@ -1,0 +1,5 @@
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.BLL\bin\Debug\MenofiaCenter.BLL.dll
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.BLL\bin\Debug\MenofiaCenter.BLL.pdb
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.BLL\obj\Debug\MenofiaCenter.BLL.csprojResolveAssemblyReference.cache
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.BLL\obj\Debug\MenofiaCenter.BLL.dll
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.BLL\obj\Debug\MenofiaCenter.BLL.pdb

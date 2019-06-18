@@ -1,0 +1,5 @@
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.DAL\bin\Debug\MenofiaCenter.DAL.dll
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.DAL\bin\Debug\MenofiaCenter.DAL.pdb
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.DAL\obj\Debug\MenofiaCenter.DAL.csprojResolveAssemblyReference.cache
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.DAL\obj\Debug\MenofiaCenter.DAL.dll
+E:\iti completed projects\MenofiaCenterProjectGithub\MenofiaCenter.DAL\obj\Debug\MenofiaCenter.DAL.pdb

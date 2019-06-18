@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenofiaCenterFinalProject", "MenofiaCenterFinalProject\MenofiaCenterFinalProject.csproj", "{B8522F36-CFA3-417B-A363-ED84AAE873D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenofiaCenter.BLL", "MenofiaCenter.BLL\MenofiaCenter.BLL.csproj", "{7A1F9094-0CAC-4001-8F3D-2BE989F55038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenofiaCenter.DAL", "MenofiaCenter.DAL\MenofiaCenter.DAL.csproj", "{12749DF5-BDAD-4499-8459-FBF8B294FA7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B8522F36-CFA3-417B-A363-ED84AAE873D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8522F36-CFA3-417B-A363-ED84AAE873D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8522F36-CFA3-417B-A363-ED84AAE873D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1F9094-0CAC-4001-8F3D-2BE989F55038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1F9094-0CAC-4001-8F3D-2BE989F55038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1F9094-0CAC-4001-8F3D-2BE989F55038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1F9094-0CAC-4001-8F3D-2BE989F55038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12749DF5-BDAD-4499-8459-FBF8B294FA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12749DF5-BDAD-4499-8459-FBF8B294FA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12749DF5-BDAD-4499-8459-FBF8B294FA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12749DF5-BDAD-4499-8459-FBF8B294FA7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
